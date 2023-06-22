@@ -21,11 +21,11 @@ public class Ebook extends Book {
     }
 
     public void openBook() {
-        System.out.println("The e-book is opened.");
+        System.out.println("book opened");
     }
 
     public void downloadBook() {
-        System.out.println("The e-book is downloading.");
+        System.out.println("Downloading book.");
     }
 
     public boolean validateFormat() {
